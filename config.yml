@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+# googleAnalytics: UA-123-45
 
 minify:
     disableXML: true
@@ -26,6 +26,10 @@ params:
     DateFormat: "January 2, 2006"
     defaultTheme: auto # dark, light
     disableThemeToggle: false
+    # Custom Variabled
+    employment:
+      role: "Associate Software Engineer"
+      company: "Digital Healthcare Solutions (Former Telenor Health)"
 
     ShowReadingTime: true
     ShowShareButtons: true
@@ -50,7 +54,7 @@ params:
         safari_pinned_tab: "https://msar.me/img/favicon.ico"
 
     label:
-        text: "Home"
+        text: "Thoughts of a stupid"
         icon: https://msar.me/img/user.png
         iconHeight: 35
 
@@ -72,7 +76,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
+        Content: "Welcome to my blog!"
 
     socialIcons:
         - name: twitter
@@ -94,7 +98,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/4msar/blog/content"
+        URL: "https://github.com/4msar/blog/tree/main/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
@@ -108,6 +112,13 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
 menu:
     main:
         - identifier: categories
@@ -118,10 +129,18 @@ menu:
           name: Tags
           url: /tags/
           weight: 20
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 30
+        - identifier: archives
+          name: Archives
+          url: /archives/
+          weight: 50
         - identifier: home
           name: Home
           url: https://msar.me
-          weight: 30
+          weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
