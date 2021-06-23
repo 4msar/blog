@@ -2,10 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://blog.msar.me/tags/about/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/categories/about/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/posts/about-myself/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://blog.msar.me/categories/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/tags/codecanyon/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/categories/company/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/tags/intro/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/tags/me/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/tags/msar/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/posts/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/tags/project/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/categories/projects/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/tags/softnio/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://blog.msar.me/tags/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://blog.msar.me/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/tags/tokenlite/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/posts/projects/token-lite/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/archives/</loc>
+  </url><url>
+    <loc>http://blog.msar.me/search/</loc>
   </url>
 </urlset>
