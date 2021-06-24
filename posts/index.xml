@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jun 2021 05:02:42 +0000</lastBuildDate><atom:link href="http://blog.msar.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Jun 2021 06:25:15 +0000</lastBuildDate><atom:link href="http://blog.msar.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Practices in Software Development</title>
+      <link>http://blog.msar.me/posts/best-practices-in-software-development/</link>
+      <pubDate>Thu, 24 Jun 2021 06:25:15 +0000</pubDate>
+      
+      <guid>http://blog.msar.me/posts/best-practices-in-software-development/</guid>
+      <description>Software Development best practices list...</description>
+    </item>
+    
     <item>
       <title>ADB Cheat Sheet</title>
       <link>http://blog.msar.me/posts/adb-cheat-sheet/</link>

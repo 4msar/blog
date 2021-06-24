@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://blog.msar.me/tags/best-practices/</loc>
+    <lastmod>2021-06-24T06:25:15+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/posts/best-practices-in-software-development/</loc>
+    <lastmod>2021-06-24T06:25:15+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/categories/</loc>
+    <lastmod>2021-06-24T06:25:15+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/categories/development/</loc>
+    <lastmod>2021-06-24T06:25:15+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/posts/</loc>
+    <lastmod>2021-06-24T06:25:15+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/categories/software/</loc>
+    <lastmod>2021-06-24T06:25:15+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/tags/software-development/</loc>
+    <lastmod>2021-06-24T06:25:15+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/tags/</loc>
+    <lastmod>2021-06-24T06:25:15+00:00</lastmod>
+  </url><url>
+    <loc>http://blog.msar.me/</loc>
+    <lastmod>2021-06-24T06:25:15+00:00</lastmod>
+  </url><url>
     <loc>http://blog.msar.me/tags/adb/</loc>
     <lastmod>2021-06-24T05:02:42+00:00</lastmod>
   </url><url>
     <loc>http://blog.msar.me/posts/adb-cheat-sheet/</loc>
     <lastmod>2021-06-24T05:02:42+00:00</lastmod>
   </url><url>
-    <loc>http://blog.msar.me/categories/</loc>
-    <lastmod>2021-06-24T05:02:42+00:00</lastmod>
-  </url><url>
     <loc>http://blog.msar.me/tags/cheat-sheet/</loc>
-    <lastmod>2021-06-24T05:02:42+00:00</lastmod>
-  </url><url>
-    <loc>http://blog.msar.me/posts/</loc>
-    <lastmod>2021-06-24T05:02:42+00:00</lastmod>
-  </url><url>
-    <loc>http://blog.msar.me/tags/</loc>
-    <lastmod>2021-06-24T05:02:42+00:00</lastmod>
-  </url><url>
-    <loc>http://blog.msar.me/</loc>
     <lastmod>2021-06-24T05:02:42+00:00</lastmod>
   </url><url>
     <loc>http://blog.msar.me/categories/tips/</loc>

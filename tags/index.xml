@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jun 2021 05:02:42 +0000</lastBuildDate><atom:link href="http://blog.msar.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Jun 2021 06:25:15 +0000</lastBuildDate><atom:link href="http://blog.msar.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Practices</title>
+      <link>http://blog.msar.me/tags/best-practices/</link>
+      <pubDate>Thu, 24 Jun 2021 06:25:15 +0000</pubDate>
+      
+      <guid>http://blog.msar.me/tags/best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Development</title>
+      <link>http://blog.msar.me/tags/software-development/</link>
+      <pubDate>Thu, 24 Jun 2021 06:25:15 +0000</pubDate>
+      
+      <guid>http://blog.msar.me/tags/software-development/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>adb</title>
       <link>http://blog.msar.me/tags/adb/</link>
