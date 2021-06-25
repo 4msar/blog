@@ -1,7 +1,7 @@
 ---
 author: "Saiful Alam"
 title: "ADB Cheat Sheet"
-date: 2021-06-24T05:02:42Z
+date: 2021-05-12T05:02:42Z
 # draft: true
 description: "Android Debug Bridge (adb) is a versatile command-line tool that lets you communicate with a device. The adb command facilitates a variety of device actions, such as installing and debugging apps, and it provides access to a Unix shell that you can use to run a variety of commands on a device. "
 tags: ["adb", "cheat-sheet", ]

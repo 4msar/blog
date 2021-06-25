@@ -1,7 +1,7 @@
 ---
 author: "Saiful Alam"
 title: "About Myself & My Blogs"
-date: "2021-06-20"
+date: "2021-01-01"
 description: "A brief details of Myself"
 tags: ["msar", "me", "about", "intro"]
 categories: ["about"]
