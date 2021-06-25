@@ -10,11 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jun 2021 05:02:42 +0000</lastBuildDate><atom:link href="http://blog.msar.me/tags/adb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 May 2021 05:02:42 +0000</lastBuildDate><atom:link href="http://blog.msar.me/tags/adb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ADB Cheat Sheet</title>
       <link>http://blog.msar.me/posts/adb-cheat-sheet/</link>
-      <pubDate>Thu, 24 Jun 2021 05:02:42 +0000</pubDate>
+      <pubDate>Wed, 12 May 2021 05:02:42 +0000</pubDate>
       
       <guid>http://blog.msar.me/posts/adb-cheat-sheet/</guid>
       <description>Android Debug Bridge (adb) is a versatile command-line tool that lets you communicate with a device. The adb command facilitates a variety of device actions, such as installing and debugging apps, and it provides access to a Unix shell that you can use to run a variety of commands on a device. </description>
