@@ -47,4 +47,3 @@ ShowToc: false # Show table of content
 [ss]: https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
 [vscode]: https://code.visualstudio.com/
 [mm]: https://realbyteapps.com
-{"mode":"full","isActive":false}
