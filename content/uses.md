@@ -21,17 +21,20 @@ ShowToc: false # Show table of content
 - Chrome, Calendar, iTerm2, Sublime Text, Notes, VS Code are in Dock
 - Every day used Apps on my phone are What's App, LinkedIn, Google Authenticator, Gmail, Youtube, Twitter, Facebook and etc.
 - Primarily I use WhatsApp for personal communication and MS Team for work
-- I keep track all of my expenses at [Money Lover](https://realbyteapps.com)
+- I keep track all of my expenses at [Money Manager][mm]
 - The phone & laptop consumes a big chunk of my time. 😆 
 
 ## Desk Setup
 
 - I write code on my Macbook Pro 2015 15"
-- A one-liter water bottle and some snacks are always found on my desk
+- A one-liter water bottle and a Orange Jasmine Bonsai on my desk
+- And as always some books on my desk.
 
 ## Languages I speak
 
-- Bangla, English
+- Bangla
+- English
+- Hindi
 
 ## Entertainment & Hobbies
 
@@ -43,6 +46,5 @@ ShowToc: false # Show table of content
 
 [ss]: https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
 [vscode]: https://code.visualstudio.com/
-[mlve]: https://moneylover.me/
-[g6]: https://www.feiyu-tech.com/g6/
+[mm]: https://realbyteapps.com
 {"mode":"full","isActive":false}
