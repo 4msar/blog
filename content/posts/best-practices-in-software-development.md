@@ -20,6 +20,7 @@ Follow the links to learn about best practice.
 
 ## Best Practice in JS
 - [NodeJS](https://github.com/goldbergyoni/nodebestpractices)
+- [JsTheRightWay](https://jstherightway.org/)
 
 ## Best Practice in Android
 - [Android](https://github.com/futurice/android-best-practices)
